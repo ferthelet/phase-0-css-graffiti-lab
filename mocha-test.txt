@@ -1,0 +1,13 @@
+  index.html
+    ✔ exists
+
+  css/cleanup.css
+    ✔ exists
+    ✔ has overrides added
+
+  css/paint.css
+    ✔ exists
+    ✔ must be unchanged
+
+
+  5 passing (5ms)
